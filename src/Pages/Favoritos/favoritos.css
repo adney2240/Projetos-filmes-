@@ -1,0 +1,65 @@
+.meusFilmes{
+    margin-top: 24px;
+
+}
+.meusFilmes h1{
+    margin-bottom: 14px;
+}
+.meusFilmes .tituloFilme{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(131, 202, 131);
+    
+}
+.meusFilmes span{
+    font-size: 18px;
+}
+.meusFilmes ul{
+    width: 720px;
+}
+.meusFilmes ul li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 14px;
+}
+.meusFilmes div {   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* estilos botao */
+.meusFilmes div a{
+    text-decoration: none;
+    color: black;
+    margin-right: 14px;
+    background-color: rgb(189, 43, 43);
+    padding: 5px 3px;
+    border-radius: 4px;
+    transition: 0.3s;
+}
+.meusFilmes button{
+    cursor: pointer;
+    color: black;
+    margin-right: 14px;
+    background-color: rgb(189, 43, 43);
+    padding: 5px 3px;
+    border-radius: 4px;
+    font-size: 15px;
+    border: none;
+}
+
+/* hover botao */
+.meusFilmes div a:hover{
+    background-color: rgb(207, 69, 69);
+    color: white;
+    transition: 0.3s;
+}
+
+.meusFilmes button:hover{
+    background-color: rgb(207, 69, 69);
+    color: white;
+    transition: 0.3s;
+}
