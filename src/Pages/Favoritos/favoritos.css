@@ -1,6 +1,8 @@
+
 .meusFilmes{
     margin-top: 24px;
-    width: 100%;
+    width: 500px;
+    max-width: 100%;
 
 }
 .meusFilmes h1{
