@@ -8,13 +8,7 @@
 .meusFilmes h1{
     margin-bottom: 14px;
 }
-.meusFilmes .tituloFilme{
-    font-size: 25px;
-    font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(131, 202, 131);
 
-    
-}
 .meusFilmes span{
     font-size: 18px;
 }
